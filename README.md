@@ -1,14 +1,14 @@
 # VRPOS
 This repository contains the source code for my project, focusing on VRPOS (Vehicle Routing Problem with Optinal Subtours) and mini-hub system.
 
- * Delivery mode
-![pic1](./delivery.png)
+<h2>Delivery mode</h2>
+<img src="./delivery.png" width="300" />
 
- * Definition of VRPOS
-![pic1](./vrpos explained.png)
+<h2>Definition of VRPOS</h2>
+<img src="./vrpos explained.png" width="300" />
 
- * Hierarchy
-![pic1](./subproblems.png)
+<h2>Hierarchy</h2>
+<img src="./subproblems.png" width="300" />
 
- * Solution of VRPOS
-![pic1](./solving.png)
+<h2>Solution of VRPOS</h2>
+<img src="./solving.png" width="300" />
