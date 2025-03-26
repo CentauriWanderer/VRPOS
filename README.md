@@ -1,5 +1,5 @@
 # VRPOS
-This repository contains the source code for my project, focusing on VRPOS (Vehicle Routing Problem with Optinal Subtours) and mini-hub system.
+This repository contains the source code for my project, focusing on VRPOS (Vehicle Route Planning with Optinal Subtours) and mini-hub system.
 
 <h2>Delivery mode</h2>
 <img src="./delivery.png" width="300" />
