@@ -7,10 +7,10 @@ The VRPOS modeling aims to simulate the driving, parking, and walking behaviors 
 <img src="./delivery.png" width="500" />
 
 <h2>Definition of VRPOS</h2>
-<img src="./vrpos explained.png" width="500" />
+<img src="./vrpos explained.png" width="800" />
 
 <h2>Decomposition</h2>
-<img src="./subproblems.png" width="500" />
+<img src="./subproblems.png" width="700" />
 
 <h2>Solving VRPOS</h2>
 <img src="./solving.png" width="500" />
